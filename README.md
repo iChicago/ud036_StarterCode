@@ -5,6 +5,7 @@ This is a Udacity project. The goal from is project is to show my list of favori
 * Install git
 * Install Python3+ 
 * Clone the project from my repository. Use the following command
+
 ``` $ git clone https://github.com/iChicago/ud036_StarterCode.git```
 
 * Use the **terminal** to access the directory ***ud036_StarterCode***
